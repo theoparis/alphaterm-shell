@@ -1,0 +1,7 @@
+{
+    "extends": "@theoparis/eslint-config",
+    "rules": {
+        "no-shadow": 0
+    }
+}
+
